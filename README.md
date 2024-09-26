@@ -6,4 +6,4 @@ I am a bioinformatics student, currently in the second year of my master's degre
 
 ### Third year of bachelor's degree
 
-[![Regex-Family-Domain](https://github-readme-stats.vercel.app/api/pin/?username=gloriabenoit&repo=Regex-Family-Domain)](https://github.com/gloriabenoit/Regex-Family-Domain)
+[![Regex-Family-Detection](https://github-readme-stats.vercel.app/api/pin/?username=gloriabenoit&repo=Regex-Family-Detection)](https://github.com/gloriabenoit/Regex-Family-Detection)
