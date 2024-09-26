@@ -6,4 +6,4 @@ I am a bioinformatics student, currently in the second year of my master's degre
 
 ### Third year of bachelor's degree
 
-[![AutoClassWrapper](https://github-readme-stats.vercel.app/api/pin/?username=gloriabenoit&repo=autoclasswrapper&show_owner=true)](https://github.com/pierrepo/Regex-Family-Domain)
+[![AutoClassWrapper](https://github-readme-stats.vercel.app/api/pin/?username=gloriabenoit&repo=autoclasswrapper&show_owner=true)](https://github.com/gloriabenoit/Regex-Family-Domain)
