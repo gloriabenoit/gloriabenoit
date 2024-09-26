@@ -8,3 +8,4 @@ I am a bioinformatics student, currently in the second year of my master's degre
 
 [![Regex-Family-Detection](https://github-readme-stats.vercel.app/api/pin/?username=gloriabenoit&repo=Regex-Family-Detection)](https://github.com/gloriabenoit/Regex-Family-Detection)
 [![Needleman-Wunsch](https://github-readme-stats.vercel.app/api/pin/?username=gloriabenoit&repo=Needleman-Wunsch)](https://github.com/gloriabenoit/Needleman-Wunsch)
+[![Dinucleotide-Analysis](https://github-readme-stats.vercel.app/api/pin/?username=gloriabenoit&repo=Dinucleotide-Analysis)](https://github.com/gloriabenoit/Dinucleotide-Analysis)
