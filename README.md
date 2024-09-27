@@ -16,6 +16,7 @@ I am a bioinformatics student, currently in the second year of my master's degre
 
 ### First year of master's degree (2023 - 2024)
 
+[![Climate-Change-Analysis](https://github-readme-stats.vercel.app/api/pin/?username=gloriabenoit&repo=Climate-Change-Analysis)](https://github.com/gloriabenoit/Climate-Change-Analysis)
 [![Plumber-Game](https://github-readme-stats.vercel.app/api/pin/?username=gloriabenoit&repo=Plumber-Game)](https://github.com/gloriabenoit/Plumber-Game)
 [![Wiki-RDR2](https://github-readme-stats.vercel.app/api/pin/?username=gloriabenoit&repo=Wiki-RDR2)](https://github.com/gloriabenoit/Wiki-RDR2)
 
