@@ -11,6 +11,7 @@ I am a bioinformatics student, currently in the second year of my master's degre
 ## Projects by school year
 ### Second year of master's degree (2024 - 2025)
 
+[![BWT-Mapper](https://github-readme-stats.vercel.app/api/pin/?username=gloriabenoit&repo=BWT-Mapper)](https://github.com/gloriabenoit/BWT-Mapper)
 [![Deep-Learning-Classification](https://github-readme-stats.vercel.app/api/pin/?username=gloriabenoit&repo=Deep-Learning-Classification)](https://github.com/gloriabenoit/Deep-Learning-Classification)
 [![Double-Dynamic-Threading](https://github-readme-stats.vercel.app/api/pin/?username=gloriabenoit&repo=Double-Dynamic-Threading)](https://github.com/gloriabenoit/Double-Dynamic-Threading)
 
